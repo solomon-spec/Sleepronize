@@ -1,4 +1,5 @@
 # Sleepronize
+
 Space Apps Challenge - Sleep Shift Scheduling Tool
 # Summary
 Sleepronize is an expedient application designed to help Astronauts, shift workers, and international travelers manage fatigue during their work hours. Sleepronize takes as input basic information such as launch date/ time and work shift time to calculate and craft a custom-made sleep, meal, and exercise schedule. Sleepronize has its core purpose in maintaining circadian synchronization and does so by guiding the user to follow a specifically designed schedule two days before launching a new sleep cycle. Beyond computing suitable schedules, SleepCustomized also lists dietary suggestions according to the user’s sleep shift schedule to help achieve maximum productivity.
